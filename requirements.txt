@@ -1,0 +1,7 @@
+pip-installable libraries:
+---
+sqlite3
+colarama
+difflib
+sys
+---
